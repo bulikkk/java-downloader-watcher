@@ -1,0 +1,2 @@
+Main-Class: Charter
+Class-Path: ./jars/jcommon-1.0.23.jar ./jars/jfreechart.jar ./jars/poi.jar ./jars/postgresql.jar
